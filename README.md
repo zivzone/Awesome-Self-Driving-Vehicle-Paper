@@ -10,7 +10,7 @@ Behaviors in Autonomous Driving](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=
 to Formal Methods for Moving Obstacle Avoidance](https://www.cs.unm.edu/tapialab/Publications/61.pdf)
 - [Multi-Task Regression-based Learning for
 Autonomous Unmanned Aerial Vehicle Flight
-Control within Unstructured Outdoor Environments](https://arxiv.org/pdf/1907.08320.pdf)
+Control within Unstructured Outdoor Environments(**RA-L**)](https://arxiv.org/pdf/1907.08320.pdf)
 - [Driving with Style: Inverse Reinforcement Learning in General-Purpose
 Planning for Automated Driving
 ](https://arxiv.org/pdf/1905.00229.pdf)
