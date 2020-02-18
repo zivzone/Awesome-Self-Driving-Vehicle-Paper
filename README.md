@@ -27,3 +27,14 @@ Deep Model-Based Reinforcement Learning](https://arxiv.org/pdf/1901.03737.pdf)
 Predictive Control based Approach](https://arxiv.org/pdf/1901.07905.pdf)
 - [Reinforcement Learning of Trajectory Distributions: Applications in
 Assisted Teleoperation and Motion Planning](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8967856)
+
+### 2018
+- [Learning to Fly by MySelf: A Self-Supervised CNN-based Approach for Autonomous Navigation](https://ieeexplore.ieee.org/document/8594204)
+
+## RSS
+### 2019
+- [OIL: Observational Imitation Learning](https://sites.google.com/kaust.edu.sa/oil/)
+
+## IEEE Transactions on Vehicular Technology
+### 2019
+- [Autonomous Navigation of UAVs in Large-Scale Complex Environments: A Deep Reinforcement Learning Approach](https://ieeexplore.ieee.org/document/8600371) (Fast-RDPG)
