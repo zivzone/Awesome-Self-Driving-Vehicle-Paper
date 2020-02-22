@@ -8,7 +8,7 @@ This repo is the paper list of drone, self driving car and other self driving ve
 Behaviors in Autonomous Driving](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8968565)
 - [Comparison of Deep Reinforcement Learning Policies
 to Formal Methods for Moving Obstacle Avoidance](https://www.cs.unm.edu/tapialab/Publications/61.pdf)
-- [Multi-Task Regression-based Learning for
+- (**Done**)[Multi-Task Regression-based Learning for
 Autonomous Unmanned Aerial Vehicle Flight
 Control within Unstructured Outdoor Environments(**RA-L**)](https://arxiv.org/pdf/1907.08320.pdf)
 - [Driving with Style: Inverse Reinforcement Learning in General-Purpose
@@ -27,6 +27,8 @@ Deep Model-Based Reinforcement Learning](https://arxiv.org/pdf/1901.03737.pdf)
 Predictive Control based Approach](https://arxiv.org/pdf/1901.07905.pdf)
 - [Reinforcement Learning of Trajectory Distributions: Applications in
 Assisted Teleoperation and Motion Planning](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8967856)
+- [Flying through a narrow gap using neural network: an end-to-end planning and control approach](https://arxiv.org/abs/1903.09088)
+
 
 ### 2018
 - [Learning to Fly by MySelf: A Self-Supervised CNN-based Approach for Autonomous Navigation](https://ieeexplore.ieee.org/document/8594204)
