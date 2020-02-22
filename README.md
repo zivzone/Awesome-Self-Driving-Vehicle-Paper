@@ -40,3 +40,5 @@ Assisted Teleoperation and Motion Planning](https://ieeexplore.ieee.org/stamp/st
 ## IEEE Transactions on Vehicular Technology
 ### 2019
 - [Autonomous Navigation of UAVs in Large-Scale Complex Environments: A Deep Reinforcement Learning Approach](https://ieeexplore.ieee.org/document/8600371) (Fast-RDPG)
+
+## RED UAS
