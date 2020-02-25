@@ -27,7 +27,7 @@ Deep Model-Based Reinforcement Learning](https://arxiv.org/pdf/1901.03737.pdf)
 Predictive Control based Approach](https://arxiv.org/pdf/1901.07905.pdf)
 - [Reinforcement Learning of Trajectory Distributions: Applications in
 Assisted Teleoperation and Motion Planning](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8967856)
-- [Flying through a narrow gap using neural network: an end-to-end planning and control approach](https://arxiv.org/abs/1903.09088)
+- (**Done**)[Flying through a narrow gap using neural network: an end-to-end planning and control approach](https://arxiv.org/abs/1903.09088)
 
 
 ### 2018
