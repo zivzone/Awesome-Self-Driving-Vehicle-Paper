@@ -49,3 +49,7 @@ Assisted Teleoperation and Motion Planning](https://ieeexplore.ieee.org/stamp/st
 ## ICLR
 ### 2020
 - [PSEUDO-LIDAR++:ACCURATE DEPTH FOR 3D OBJECT DETECTION IN AUTONOMOUS DRIVING](https://arxiv.org/abs/1906.06310)
+
+## CVPR
+### 2019
+- [Pseudo-LiDAR from Visual Depth Estimation: Bridging the Gap in 3D Object Detection for Autonomous Driving](https://arxiv.org/abs/1812.07179)
