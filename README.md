@@ -45,3 +45,6 @@ Assisted Teleoperation and Motion Planning](https://ieeexplore.ieee.org/stamp/st
 ### 2019
 - (**Done**)[A Temporal CNN-based Approach for Autonomous Drone Racing](https://ieeexplore.ieee.org/abstract/document/8999703)
 - [Overcoming the Blind Spot in CNN-based Gate Detection for Autonomous Drone Racing](https://ieeexplore.ieee.org/abstract/document/8999722)
+
+## ICLR
+- [PSEUDO-LIDAR++:ACCURATE DEPTH FOR 3D OBJECT DETECTION IN AUTONOMOUS DRIVING](https://arxiv.org/abs/1906.06310)
