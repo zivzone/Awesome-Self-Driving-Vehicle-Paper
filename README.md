@@ -36,6 +36,8 @@ Assisted Teleoperation and Motion Planning](https://ieeexplore.ieee.org/stamp/st
 ## RSS
 ### 2019
 - [OIL: Observational Imitation Learning](https://sites.google.com/kaust.edu.sa/oil/)
+### 2018
+- [A Real-Time Game Theoretic Planner for Autonomous Two-Player Drone Racing](https://arxiv.org/abs/1801.02302)
 
 ## IEEE Transactions on Vehicular Technology
 ### 2019
