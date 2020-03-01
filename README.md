@@ -33,6 +33,10 @@ Assisted Teleoperation and Motion Planning](https://ieeexplore.ieee.org/stamp/st
 ### 2018
 - [Learning to Fly by MySelf: A Self-Supervised CNN-based Approach for Autonomous Navigation](https://ieeexplore.ieee.org/document/8594204)
 
+## ICRA
+### 2011
+- [Minimum Snap Trajectory Generation and Control for Quadrotors](http://www-personal.acfr.usyd.edu.au/spns/cdm/papers/Mellinger.pdf?fbclid=IwAR0zmlpqO_aj_9BCvIRGmfOqQi9FNE7vlVP8cNqUrlqydjUYZ5qe42ZQmrE)
+
 ## RSS
 ### 2019
 - [OIL: Observational Imitation Learning](https://sites.google.com/kaust.edu.sa/oil/)
