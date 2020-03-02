@@ -28,7 +28,7 @@ Predictive Control based Approach](https://arxiv.org/pdf/1901.07905.pdf)
 - [Reinforcement Learning of Trajectory Distributions: Applications in
 Assisted Teleoperation and Motion Planning](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8967856)
 - (**Done**)[Flying through a narrow gap using neural network: an end-to-end planning and control approach](https://arxiv.org/abs/1903.09088)
-
+- (*RA-L*)[Robust and Efficient Quadrotor Trajectory Generation for Fast Autonomous Flight](https://arxiv.org/abs/1907.01531)
 
 ### 2018
 - [Learning to Fly by MySelf: A Self-Supervised CNN-based Approach for Autonomous Navigation](https://ieeexplore.ieee.org/document/8594204)
