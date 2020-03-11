@@ -63,5 +63,6 @@ Assisted Teleoperation and Motion Planning](https://ieeexplore.ieee.org/stamp/st
 ## CVPR
 ### 2020
 - [End-to-end Pseudo-LiDAR for Image-Based 3D Object Detection]()(**need to add paper link**)
+- [Train in Germany, Test in the USA: Making 3D Object Detectors Generalize]()(**need to add paper link**)
 ### 2019
 - (**Done**)[Pseudo-LiDAR from Visual Depth Estimation: Bridging the Gap in 3D Object Detection for Autonomous Driving](https://arxiv.org/abs/1812.07179)
