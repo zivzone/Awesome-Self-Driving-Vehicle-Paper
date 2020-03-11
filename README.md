@@ -70,3 +70,7 @@ Assisted Teleoperation and Motion Planning](https://ieeexplore.ieee.org/stamp/st
 ## CASE
 ### 2019
 - [Vision-Only 3D Tracking for Self-Driving Cars](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8843260)
+
+## Axriv
+### 2020
+- [Single-Stage Object Detection from Top-View Grid Maps on Custom Sensor Setups](https://arxiv.org/abs/2002.00667)
