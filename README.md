@@ -31,6 +31,7 @@ Assisted Teleoperation and Motion Planning](https://ieeexplore.ieee.org/stamp/st
 - (**Done**)[Robust and Efficient Quadrotor Trajectory Generation for Fast Autonomous Flight](https://arxiv.org/abs/1907.01531)(**RA-L**)
 - [LDLS: 3D Object Segmentation through Label Diffusion from 2D Images](http://www-scf.usc.edu/~weilunc/paper/RAL.pdf)(**RA-L**)
 
+
 ### 2018
 - [Learning to Fly by MySelf: A Self-Supervised CNN-based Approach for Autonomous Navigation](https://ieeexplore.ieee.org/document/8594204)
 
@@ -60,5 +61,7 @@ Assisted Teleoperation and Motion Planning](https://ieeexplore.ieee.org/stamp/st
 - (**Done**)[PSEUDO-LIDAR++:ACCURATE DEPTH FOR 3D OBJECT DETECTION IN AUTONOMOUS DRIVING](https://arxiv.org/abs/1906.06310)
 
 ## CVPR
+### 2020
+- [End-to-end Pseudo-LiDAR for Image-Based 3D Object Detection]()(**need to add paper link**)
 ### 2019
 - (**Done**)[Pseudo-LiDAR from Visual Depth Estimation: Bridging the Gap in 3D Object Detection for Autonomous Driving](https://arxiv.org/abs/1812.07179)
