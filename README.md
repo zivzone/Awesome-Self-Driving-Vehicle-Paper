@@ -68,3 +68,5 @@ Assisted Teleoperation and Motion Planning](https://ieeexplore.ieee.org/stamp/st
 - (**Done**)[Pseudo-LiDAR from Visual Depth Estimation: Bridging the Gap in 3D Object Detection for Autonomous Driving](https://arxiv.org/abs/1812.07179)
 
 ## CASE
+### 2019
+- [Vision-Only 3D Tracking for Self-Driving Cars](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8843260)
