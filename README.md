@@ -65,6 +65,7 @@ Assisted Teleoperation and Motion Planning](https://ieeexplore.ieee.org/stamp/st
 - [End-to-end Pseudo-LiDAR for Image-Based 3D Object Detection]()(**need to add paper link**)
 - [Train in Germany, Test in the USA: Making 3D Object Detectors Generalize]()(**need to add paper link**)
 - [PointPainting: Sequential Fusion for 3D Object Detection](https://arxiv.org/abs/1911.10150)
+- [PV-RCNN: Point-Voxel Feature Set Abstraction for 3D Object Detection](https://arxiv.org/abs/1912.13192)
 ### 2019
 - (**Done**)[Pseudo-LiDAR from Visual Depth Estimation: Bridging the Gap in 3D Object Detection for Autonomous Driving](https://arxiv.org/abs/1812.07179)
 
