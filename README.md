@@ -73,6 +73,8 @@ Assisted Teleoperation and Motion Planning](https://ieeexplore.ieee.org/stamp/st
 - [Frustum PointNets for 3D Object Detection from RGB-D Data](https://arxiv.org/abs/1711.08488)
 
 ## ICCV
+### 2019
+- [STD: Sparse-to-Dense 3D Object Detector for Point Cloud](https://arxiv.org/abs/1907.10471)
 
 ## CASE
 ### 2019
