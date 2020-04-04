@@ -69,6 +69,7 @@ Assisted Teleoperation and Motion Planning](https://ieeexplore.ieee.org/stamp/st
 - [Structure Aware Single-stage 3D Object Detection from Point Cloud](http://www4.comp.polyu.edu.hk/~cslzhang/paper/SA-SSD.pdf)
 ### 2019
 - (**Done**)[Pseudo-LiDAR from Visual Depth Estimation: Bridging the Gap in 3D Object Detection for Autonomous Driving](https://arxiv.org/abs/1812.07179)
+- [Multi-Task Multi-Sensor Fusion for 3D Object Detection](http://www.cs.toronto.edu/~byang/papers/mmf.pdf)
 ### 2018
 - [Frustum PointNets for 3D Object Detection from RGB-D Data](https://arxiv.org/abs/1711.08488)
 
