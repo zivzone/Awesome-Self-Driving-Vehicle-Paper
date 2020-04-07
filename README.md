@@ -66,7 +66,7 @@ Assisted Teleoperation and Motion Planning](https://ieeexplore.ieee.org/stamp/st
 - [Train in Germany, Test in the USA: Making 3D Object Detectors Generalize]()(**need to add paper link**)
 - (**Done**)[PointPainting: Sequential Fusion for 3D Object Detection](https://arxiv.org/abs/1911.10150)
 - [PV-RCNN: Point-Voxel Feature Set Abstraction for 3D Object Detection](https://arxiv.org/abs/1912.13192)
-- [Structure Aware Single-stage 3D Object Detection from Point Cloud](http://www4.comp.polyu.edu.hk/~cslzhang/paper/SA-SSD.pdf)
+- (**Done**)[Structure Aware Single-stage 3D Object Detection from Point Cloud](http://www4.comp.polyu.edu.hk/~cslzhang/paper/SA-SSD.pdf)
 ### 2019
 - (**Done**)[Pseudo-LiDAR from Visual Depth Estimation: Bridging the Gap in 3D Object Detection for Autonomous Driving](https://arxiv.org/abs/1812.07179)
 - [Multi-Task Multi-Sensor Fusion for 3D Object Detection](http://www.cs.toronto.edu/~byang/papers/mmf.pdf)
